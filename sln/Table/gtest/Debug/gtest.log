@@ -1,0 +1,20 @@
+﻿Build started 15.04.2016 10:36:14.
+     1>Project "F:\Inf\sashka einstein\education\asd\Table\sln\Table\gtest\gtest.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\gtest.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\gtest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\Prog\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         F:\Prog\VC\bin\Lib.exe /OUT:"F:\Inf\sashka einstein\education\asd\Table\sln\Table\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         gtest.vcxproj -> F:\Inf\sashka einstein\education\asd\Table\sln\Table\Debug\gtest.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\gtest.unsuccessfulbuild".
+         Touching "Debug\gtest.lastbuildstate".
+     1>Done Building Project "F:\Inf\sashka einstein\education\asd\Table\sln\Table\gtest\gtest.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.17
