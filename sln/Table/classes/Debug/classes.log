@@ -1,0 +1,21 @@
+﻿Build started 15.04.2016 10:36:14.
+     1>Project "F:\Inf\sashka einstein\education\asd\Table\sln\Table\classes\classes.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\classes.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\classes.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         F:\Prog\VC\bin\CL.exe /c /I..\..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\classes.cpp
+         classes.cpp
+     1>f:\inf\sashka einstein\education\asd\table\src\classes.cpp(59): warning C4715: 'Table::GetNext' : not all control paths return a value
+       Lib:
+         F:\Prog\VC\bin\Lib.exe /OUT:"F:\Inf\sashka einstein\education\asd\Table\sln\Table\Debug\classes.lib" /NOLOGO Debug\classes.obj
+         classes.vcxproj -> F:\Inf\sashka einstein\education\asd\Table\sln\Table\Debug\classes.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\classes.unsuccessfulbuild".
+         Touching "Debug\classes.lastbuildstate".
+     1>Done Building Project "F:\Inf\sashka einstein\education\asd\Table\sln\Table\classes\classes.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.17
