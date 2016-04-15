@@ -22,6 +22,14 @@
 *.a
 *.lib
 
+*.log
+*.tlog
+*.manifest
+*.pdb
+*.idb
+*.rc
+*.rec
+
 # Executables
 *.exe
 *.out
